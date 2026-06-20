@@ -12,9 +12,9 @@ import com.tka.entity.Player;
 public class IPLDao {
 	
 	private String path = "com.mysql.cj.jdbc.Driver";
-	private String url = "jdbc:mysql://localhost:3306/kiran_sql";
-	private String user = "root";
-	private String pwd = "@TanishaA301";
+	private String url = "your url";
+	private String user = "your username";
+	private String pwd = "your password";
 	
 	Connection con = null;
 
