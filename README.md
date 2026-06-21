@@ -1,4 +1,4 @@
-# 🏏 IPL Player Management System
+# 🏏 IPL Player Management System Using JDBC
 
 A console-based **CRUD application** for managing IPL (Indian Premier League) player data, built with **Core Java** and **JDBC** following a layered **MVC architecture**.
 
